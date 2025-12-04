@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assects/RedisImage.png" alt="Cover Image" width="60%" />
+  <img src="./assects/RedisImage.png" alt="Cover Image" width="100%" />
 </p>
 
 # Redis
